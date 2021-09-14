@@ -4,7 +4,8 @@ A pygame based program to graphically visualize the working of the A \* path fin
 
 # Controls
 
-StartNode - Orange , EndNode - Torquoise
+StartNode - Orange , EndNode - Torquoise.
+
 First Left-Click selects the starting point.
 Next Left-Click selects the ending point (if starting point is still selected).
 After that Left-Click to generate barriers.
